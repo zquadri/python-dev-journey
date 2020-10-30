@@ -1,0 +1,23 @@
+Understanding Command Line Interface (CLI) and different types of shells
+Understanding git/github
+Difference between IDE's text Editors for Python development
+What can you do with Python
+Compiling python files
+Official Python Documentation
+Comments
+Variables and types
+Conditionals
+Loops
+Methods
+Classes
+Imports
+Data Structures in Python
+Virtual Environments
+
+
+
+
+Very good guides/crash-courses :
+
+  Understanding Git/Github (~ 30 minutes): https://www.youtube.com/watch?v=SWYqp7iY_Tc&ab_channel=TraversyMedia
+  Python Crash Course (~ 90 minutes) : https://www.youtube.com/watch?v=JJmcL1N2KQs&ab_channel=TraversyMedia
